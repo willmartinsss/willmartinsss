@@ -33,7 +33,15 @@
 
 ---
 
-![snake gif](https://github.com/willmartinsss/willmartinsss/blob/main/assets/github-contribution-grid-snake-dark.svg)
+## 🐍 Snake Animation
+
+![Snake animation](https://github.com/willmartinsss/willmartinsss/blob/main/assets/github-contribution-grid-snake.svg)
+
+---
+
+## 📌 Repositories
+
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=willmartinsss&repo=willmartinsss&theme=react)](https://github.com/willmartinsss/willmartinsss)
 
 ---
 
