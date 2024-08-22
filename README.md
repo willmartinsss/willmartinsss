@@ -3,10 +3,9 @@
 
 **Estudante de Engenharia de Software Comercial**
 
-
 **Profissional comunicativo e proativo, com uma paixão em utilizar a tecnologia para conectar pessoas e ideias. Tenho forte habilidade em comunicação clara e objetiva, o que me permite expressar conceitos complexos com facilidade. Minha dedicação ao aprendizado contínuo me capacita a absorver novas informações rapidamente, tornando-me altamente eficiente e eficaz em diversas áreas.**
 
-**Minhas habilidades em Python, Java, JavaScript, CSS e HTML me permitem criar soluções robustas e funcionais. Sempre procuro maneiras inovadoras de aplicar essas tecnologias para melhorar a comunicação e a colaboração em equipes, e me adapto rapidamente a novas ferramentas e metodologias.  Estou comprometido em contribuir de forma significativa em projetos inovadores, trazendo impacto positivo e resultados concretos.**
+**Minhas habilidades em Python, Java, JavaScript, CSS e HTML me permitem criar soluções robustas e funcionais. Sempre procuro maneiras inovadoras de aplicar essas tecnologias para melhorar a comunicação e a colaboração em equipes, e me adapto rapidamente a novas ferramentas e metodologias. Estou comprometido em contribuir de forma significativa em projetos inovadores, trazendo impacto positivo e resultados concretos.**
 
 ---
 
@@ -17,7 +16,7 @@
 
 ---
 
-## 🛠 My Skills
+## 🛠 My Stack
 
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -32,3 +31,11 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=willmartinsss&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=willmartinsss&layout=compact&theme=dark)
+
+---
+
+
+## 🎮 Fun Animation
+
+![Animação Game of Life](https://media.giphy.com/media/tXlpbXfu7e2Pu/giphy.gif)
+
