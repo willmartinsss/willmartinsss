@@ -21,10 +21,6 @@
   <img align="center" alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
 </picture>
 
-<h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=obrigado+pela+visita!;" />
-</h1>
-
 ---
 ## 🛠 My Skills
 
@@ -42,4 +38,8 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=willmartinsss&layout=compact&theme=dark)
 
 ---
+
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=obrigado+pela+visita!;" />
+</h1>
 
