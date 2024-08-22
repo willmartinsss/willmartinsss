@@ -35,15 +35,11 @@
 
 ## 🐍 Snake Animation
 
-![Snake animation](https://github.com/willmartinsss/willmartinsss/blob/main/assets/github-contribution-grid-snake.svg)
-
----
-
-## 📌 Repositories
-
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=willmartinsss&repo=willmartinsss&theme=react)](https://github.com/willmartinsss/willmartinsss)
-
----
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
+  <img align="center" alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
+</picture>
 
 <h1 align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=obrigado+pela+visita!;" />
