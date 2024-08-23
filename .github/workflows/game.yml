@@ -1,0 +1,42 @@
+# game_of_life.py
+
+import numpy as np
+import matplotlib.pyplot as plt
+import matplotlib.animation as animation
+
+# Configurações iniciais
+size = 3  # Tamanho da grade
+interval = 500  # Intervalo de atualização em milissegundos
+
+# Cria uma grade inicial aleatória
+grid = np.random.randint(2, size=(size, size))
+
+def update(frameNum, img, grid):
+    new_grid = grid.copy()
+    for i in range(size):
+        for j in range(size):
+            total = int((grid[i, (j-1)%size] + grid[i, (j+1)%size] +
+                         grid[(i-1)%size, j] + grid[(i+1)%size, j] +
+                         grid[(i-1)%size, (j-1)%size] + grid[(i-1)%size, (j+1)%size] +
+                         grid[(i+1)%size, (j-1)%size] + grid[(i+1)%size, (j+1)%size]) / 1.0)
+
+            if grid[i, j] == 1:
+                if total < 2 or total > 3:
+                    new_grid[i, j] = 0
+            else:
+                if total == 3:
+                    new_grid[i, j] = 1
+
+    img.set_data(new_grid)
+    grid[:] = new_grid[:]
+    return img,
+
+# Configura a visualização
+fig, ax = plt.subplots()
+img = ax.imshow(grid, interpolation='nearest', cmap='gray')
+ax.set_xticks([])
+ax.set_yticks([])
+
+ani = animation.FuncAnimation(fig, update, fargs=(img, grid), interval=interval, save_count=50)
+
+plt.show()
