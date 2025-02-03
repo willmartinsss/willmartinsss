@@ -16,9 +16,8 @@
 - 🔭 Atualmente estudando **Engenharia de Software na Jala University**  
 - 📚 Aprimorando conhecimentos em **Banco de Dados, POO e Estruturas de Dados**  
 - 🛠️ Foco principal: **Back-End Development e Cyber Security**  
-- 🌎 Idiomas: **Português (Nativo), Francês e Inglês (Aprendendo)**  
-- 🎸 Hobby: **Baixo passivo 🎵**  
-
+- 🌎 Idiomas: **Português (Nativo), Francês e Inglês (Aprendendo)**
+- 
 ---
 ## 🐍 Snake Animation
 
