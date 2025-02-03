@@ -17,7 +17,7 @@
 - 📚 Aprimorando conhecimentos em **Banco de Dados, POO e Estruturas de Dados**  
 - 🛠️ Foco principal: **Back-End Development e Cyber Security**  
 - 🌎 Idiomas: **Português (Nativo), Francês e Inglês (Aprendendo)**
-- 
+  
 ---
 ## 🐍 Snake Animation
 
