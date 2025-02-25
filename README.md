@@ -14,7 +14,7 @@
 ## ✨ Sobre Mim  
 
 - 🔭 Atualmente estudando **Engenharia de Software na Jala University**  
-- 📚 Aprimorando conhecimentos em **Banco de Dados, POO e Estruturas de Dados**  
+- 📚 Aprimorando conhecimentos em **BackEnd**  
 - 🛠️ Foco principal: **Back-End Development e Cyber Security**  
 - 🌎 Idiomas: **Português (Nativo), Francês e Inglês (Aprendendo)**
   
