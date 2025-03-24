@@ -30,12 +30,16 @@
 ---  
 ## 🛠 My Skills  
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)  
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%2306B35E.svg?style=for-the-badge&logo=springboot&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)  
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%2306B35E.svg?style=for-the-badge&logo=springboot&logoColor=white)  
+![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)  
+![Hibernate](https://img.shields.io/badge/Hibernate-%234E361C.svg?style=for-the-badge&logo=hibernate&logoColor=white)  
+![Maven](https://img.shields.io/badge/Maven-%23C71A36.svg?style=for-the-badge&logo=apachemaven&logoColor=white)  
+![Jenkins](https://img.shields.io/badge/Jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white)  
+![JUnit](https://img.shields.io/badge/JUnit-%23218B37.svg?style=for-the-badge&logo=junit&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-%2300A9E0.svg?style=for-the-badge&logo=mysql&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
 
 ---  
 ## 📊 GitHub Stats  
