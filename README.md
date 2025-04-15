@@ -1,7 +1,7 @@
 # William 🚀  
 **Back-End Developer | Software Engineering Student**  
 
-**Profissional comunicativo e proativo, apaixonado por tecnologia e inovação. Minha capacidade de comunicação clara e objetiva me permite traduzir conceitos complexos de forma acessível. Com experiência em Python, Java, JavaScript, CSS e HTML, desenvolvo soluções robustas e funcionais.**  
+**Profissional comunicativo e proativo, apaixonado por tecnologia e inovação. Minha capacidade de comunicação clara e objetiva me permite traduzir conceitos complexos de forma acessível. Com experiência em Python, Java, JavaScript, desenvolvo soluções robustas e funcionais.**  
 
 **Sou ágil no aprendizado e me adapto rapidamente a novas ferramentas e metodologias. Busco constantemente maneiras inovadoras de melhorar a colaboração em equipe e otimizar processos por meio da tecnologia. Estou comprometido em contribuir para projetos inovadores que gerem impacto positivo.**  
 
