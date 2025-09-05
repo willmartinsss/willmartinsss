@@ -8,6 +8,21 @@
 
 ---
 
+## 🌐 Connect with me  
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/william-m-almeida/">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25"/>
+  </a>
+  <a href="https://discord.com/iamwill2">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25"/>
+  </a>
+  <a href="mailto:williammartins323@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</div>
+
+---
 ## 🛠 My Skills
 
 <div align="center">
@@ -45,23 +60,6 @@
 </picture>
 
 ---
-
-## 🌐 Connect with me  
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/william-m-almeida/">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25"/>
-  </a>
-  <a href="https://discord.com/iamwill2">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25"/>
-  </a>
-  <a href="williammartins323@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</div>
-
----
-
 
 ## 📊 GitHub Stats  
 
