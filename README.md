@@ -10,21 +10,46 @@
 
 ---
 
+## 🐍 Contributions  
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/willmartinsss/willmartinsss/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/willmartinsss/willmartinssswillmartinsss/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/willmartinsss/willmartinsss/output/pacman-contribution-graph.svg">
+</picture>
+</div>
+
+---
+
 ## 🌐 Connect with me  
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/william-almeida-688b7b103/">
+  <a href="https://www.linkedin.com/in/william-m-almeida/">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25"/>
   </a>
-  <a href="https://twitter.com/">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25"/>
-  </a>
-  <a href="https://discord.com/">
+  <a href="https://discord.com/iamwill2">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25"/>
   </a>
   <a href="https://dev.to/">
     <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25"/>
   </a>
+</div>
+
+---
+
+
+## 📊 GitHub Stats  
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=willmartinsss&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willmartinsss&layout=compact&langs_count=7&theme=dark"/>
+</div>  
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=willmartinsss&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150"/>
+  <img src="https://github-profile-trophy.vercel.app?username=willmartinsss&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150"/>
 </div>
 
 ---
@@ -41,32 +66,6 @@
 ![MySQL](https://img.shields.io/badge/MySQL-%2300A9E0.svg?style=for-the-badge&logo=mysql&logoColor=white)  
 ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)  
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-## 📊 GitHub Stats  
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=willmartinsss&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willmartinsss&layout=compact&langs_count=7&theme=dark"/>
-</div>  
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=willmartinsss&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150"/>
-  <img src="https://github-profile-trophy.vercel.app?username=willmartinsss&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150"/>
-</div>
-
----
-
-## 🐍 Contributions  
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/willmartinsss/willmartinsss/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/willmartinsss/willmartinsss/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/willmartinsss/willmartinsss/output/pacman-contribution-graph.svg">
-  </picture>
-</div>
 
 ---
 
