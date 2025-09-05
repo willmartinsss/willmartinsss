@@ -51,7 +51,7 @@
   <a href="https://discord.com/iamwill2">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25"/>
   </a>
-  <a href="mailto:williammartins323@gmail.com">
+  <a href="williammartins323@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </div>
