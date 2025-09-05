@@ -32,16 +32,16 @@
 ## 🛠 Skills  
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"/>
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"/>
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo"/>
-  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"/>
-  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"/>
-  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"/>
-  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"/>
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"/>
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="aws logo"/>
+  ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)  
+  ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%2306B35E.svg?style=for-the-badge&logo=springboot&logoColor=white)  
+  ![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)  
+  ![Hibernate](https://img.shields.io/badge/Hibernate-%234E361C.svg?style=for-the-badge&logo=hibernate&logoColor=white)  
+  ![Maven](https://img.shields.io/badge/Maven-%23C71A36.svg?style=for-the-badge&logo=apachemaven&logoColor=white)  
+  ![Jenkins](https://img.shields.io/badge/Jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white)  
+  ![JUnit](https://img.shields.io/badge/JUnit-%23218B37.svg?style=for-the-badge&logo=junit&logoColor=white)  
+  ![MySQL](https://img.shields.io/badge/MySQL-%2300A9E0.svg?style=for-the-badge&logo=mysql&logoColor=white)  
+  ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)  
+  ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 </div>
 
 ---
@@ -60,12 +60,12 @@
 
 ---
 
-## 🐍 Snake Animation
+## 🐍 PacMan Animation
 
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/william/william/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/william/william/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/william/william/output/pacman-contribution-graph.svg">
 </picture>
 
 ---
