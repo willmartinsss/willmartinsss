@@ -17,9 +17,8 @@
   <a href="https://discord.com/iamwill2">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25"/>
   </a>
-  <a href="mailto:williammartins323@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+[![Email](https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=EA4335&logoColor=white&style=for-the-badge)](mailto:williammartins323@gmail.com)
+
 </div>
 
 ---
