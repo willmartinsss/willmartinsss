@@ -1,5 +1,3 @@
-<h1 align="center">Hey 👋 What's Up?</h1>
-
 ###  
 
 **William 🚀 | Back-End Developer | Software Engineering Student**  
@@ -54,18 +52,29 @@
 
 ---
 
-## 🛠 My Skills  
+## 🛠 My Skills
 
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)  
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%2306B35E.svg?style=for-the-badge&logo=springboot&logoColor=white)  
-![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)  
-![Hibernate](https://img.shields.io/badge/Hibernate-%234E361C.svg?style=for-the-badge&logo=hibernate&logoColor=white)  
-![Maven](https://img.shields.io/badge/Maven-%23C71A36.svg?style=for-the-badge&logo=apachemaven&logoColor=white)  
-![Jenkins](https://img.shields.io/badge/Jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white)  
-![JUnit](https://img.shields.io/badge/JUnit-%23218B37.svg?style=for-the-badge&logo=junit&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-%2300A9E0.svg?style=for-the-badge&logo=mysql&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+<div align="center">
+  ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+  <img width="12"/>
+  ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%2306B35E.svg?style=for-the-badge&logo=springboot&logoColor=white)
+  <img width="12"/>
+  ![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+  <img width="12"/>
+  ![Hibernate](https://img.shields.io/badge/Hibernate-%234E361C.svg?style=for-the-badge&logo=hibernate&logoColor=white)
+  <img width="12"/>
+  ![Maven](https://img.shields.io/badge/Maven-%23C71A36.svg?style=for-the-badge&logo=apachemaven&logoColor=white)
+  <img width="12"/>
+  ![Jenkins](https://img.shields.io/badge/Jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+  <img width="12"/>
+  ![JUnit](https://img.shields.io/badge/JUnit-%23218B37.svg?style=for-the-badge&logo=junit&logoColor=white)
+  <img width="12"/>
+  ![MySQL](https://img.shields.io/badge/MySQL-%2300A9E0.svg?style=for-the-badge&logo=mysql&logoColor=white)
+  <img width="12"/>
+  ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+  <img width="12"/>
+  ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+</div>
 
 ---
 
