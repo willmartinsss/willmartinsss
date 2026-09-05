@@ -94,24 +94,6 @@ Atuação como **Back-End e QA**, contribuindo com:
 
 ---
 
-### 📝 Blog Pessoal
-
-API REST desenvolvida com **NestJS**, contendo autenticação, integração com banco de dados e documentação da API.
-
-Tecnologias e conceitos utilizados:
-
-- NestJS
-- TypeScript
-- JWT
-- Banco de dados relacional
-- Swagger
-- Clean Architecture
-- Boas práticas de desenvolvimento
-
-🔗 [Ver projeto](https://github.com/willmartinsss/blogpessoal_nest)
-
----
-
 ## 📚 Atualmente estudando
 
 - Java e Spring Boot
