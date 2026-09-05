@@ -1,52 +1,153 @@
-###  
+# William Martins 🚀
 
-**William 🚀 | Back-End Developer | Software Engineering Student**  
+### Back-End Developer | Estudante de Ciência da Computação
 
-**Profissional comunicativo e proativo, apaixonado por tecnologia e inovação. Minha capacidade de comunicação clara e objetiva me permite traduzir conceitos complexos de forma acessível. Experiência em Python, Java, JavaScript, desenvolvendo soluções robustas e funcionais.**  
+🎓 Estudante de **Ciência da Computação**  
+💻 Focado em **Desenvolvimento Back-End**  
+🚀 Java • Spring Boot • Node.js • NestJS • TypeScript
 
-**Ágil no aprendizado e adaptação a novas ferramentas e metodologias. Busco maneiras inovadoras de melhorar a colaboração e otimizar processos com tecnologia, contribuindo para projetos de impacto positivo.**
+Sou estudante de Ciência da Computação, com experiência prática em desenvolvimento Back-End por meio de projetos reais e colaborativos.
+
+Tenho experiência no desenvolvimento de **APIs REST**, integração com bancos de dados, autenticação e organização de aplicações utilizando boas práticas de desenvolvimento, com foco principalmente no ecossistema **Java/Spring Boot** e **Node.js/NestJS**.
+
+Atualmente estou aprofundando meus conhecimentos em desenvolvimento de software, arquitetura de aplicações, testes e desenvolvimento Full Stack, enquanto busco uma oportunidade de **estágio em Desenvolvimento de Software/TI**.
 
 ---
 
-## 🌐 Connect with me  
+## 🌐 Conecte-se comigo
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/william-m-almeida/) 
-[![Discord](https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge)](https://discord.com/iamwill2) 
-[![Email](https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=EA4335&logoColor=white&style=for-the-badge)](mailto:williammartins323@gmail.com)
+[![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/william-m-almeida/)
 
-</div>
-
-
----
-## 🛠 My Skills
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="60" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="60" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="60" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="60" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="mysql logo"  />
 </div>
 
 ---
 
-## 🐍 Snake Animation  
+## 🛠️ Tecnologias
+
+<div align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="Java" />
+<img width="12" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="60" alt="Spring Boot" />
+<img width="12" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="JavaScript" />
+<img width="12" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="60" alt="TypeScript" />
+<img width="12" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" alt="Node.js" />
+<img width="12" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="60" alt="NestJS" />
+<img width="12" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="React" />
+<img width="12" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="60" alt="Docker" />
+<img width="12" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="MySQL" />
+<img width="12" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="Git" />
+
+</div>
+
+---
+
+## 🚀 Projetos em Destaque
+
+### 📦 Delivoo
+
+Plataforma de gerenciamento de delivery desenvolvida em equipe, com atuação como **Scrum Master e desenvolvedor Back-End**.
+
+Principais contribuições:
+
+- Desenvolvimento e manutenção de APIs
+- Implementação de autenticação com JWT
+- Correção de endpoints e integrações
+- Organização de tarefas e sprints
+- Trabalho colaborativo utilizando metodologia ágil
+
+🔗 [Ver projeto](https://github.com/OxenteC0de/Delivoo)
+
+---
+
+### 🍔 Appetito
+
+Plataforma de **cardápio digital via QR Code**, desenvolvida para facilitar o acesso e gerenciamento de produtos de estabelecimentos.
+
+Atuação como **Back-End e QA**, contribuindo com:
+
+- Desenvolvimento de APIs REST
+- Integração com banco de dados
+- Testes e validação funcional
+- Correção e validação de funcionalidades
+
+🔗 [Ver projeto](https://github.com/AppetitoBR)
+
+---
+
+### 📝 Blog Pessoal
+
+API REST desenvolvida com **NestJS**, contendo autenticação, integração com banco de dados e documentação da API.
+
+Tecnologias e conceitos utilizados:
+
+- NestJS
+- TypeScript
+- JWT
+- Banco de dados relacional
+- Swagger
+- Clean Architecture
+- Boas práticas de desenvolvimento
+
+🔗 [Ver projeto](https://github.com/willmartinsss/blogpessoal_nest)
+
+---
+
+## 📚 Atualmente estudando
+
+- Java e Spring Boot
+- Node.js e NestJS
+- TypeScript
+- Desenvolvimento de APIs REST
+- Arquitetura de Software
+- Testes automatizados
+- Docker
+- Desenvolvimento Full Stack
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=willmartinsss&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willmartinsss&layout=compact&langs_count=7&theme=dark"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=willmartinsss&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150"/>
+
+<img src="https://github-profile-trophy.vercel.app?username=willmartinsss&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150"/>
+
+</div>
+
+---
+
+## 🐍 Snake Animation
 
 <div align="center">
 
@@ -56,30 +157,16 @@
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
 </picture>
 
----
-
-## 📊 GitHub Stats  
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=willmartinsss&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willmartinsss&layout=compact&langs_count=7&theme=dark"/>
-</div>  
-
-<br>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=willmartinsss&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150"/>
-  <img src="https://github-profile-trophy.vercel.app?username=willmartinsss&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150"/>
 </div>
 
 ---
 
+<h2 align="center">
+  Obrigado pela visita! 🚀
+</h2>
 
-<h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Obrigado+pela+visita!;" />
-</h1>
-
-###
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=william.william&"  />
+
+![Visitor Count](https://komarev.com/ghpvc/?username=willmartinsss&color=blue&style=flat-square)
+
 </div>
